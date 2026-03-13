@@ -1,12 +1,11 @@
+import Navbar from "./components/navbar/Navbar";
 
-import Header from "./components/layout/header";
 const App = () => {
   return (
     <>
-    <Header></Header>
-      
+      <Navbar></Navbar>
     </>
-  )
-}
+  );
+};
 
 export default App;
