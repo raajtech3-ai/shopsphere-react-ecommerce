@@ -1,0 +1,55 @@
+.offer-img {
+  margin-left: 15px !important;
+}
+
+.footer-top {
+  background: #f5f7fb;
+  padding: 40px 0;
+}
+
+.subscribe-box {
+  display: flex;
+  gap: 10px;
+}
+
+.footer-main {
+  background: #ffffff;
+  padding: 60px 0;
+}
+
+.footer-main h5 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.footer-main ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-main ul li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+}
+
+.payment-img {
+  width: 200px;
+  margin-top: 10px;
+}
+
+.footer-bottom {
+  border-top: 1px solid #eee;
+  padding: 20px 0;
+}
+
+.footer-bottom a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #555;
+}
